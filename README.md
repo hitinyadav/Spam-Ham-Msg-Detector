@@ -1,2 +1,3 @@
-# Spam-Ham-Msg-Detector-
+# Spam-Ham-Msg-Detector
+Hello, I am @htinyadav
 I have created a machine learning model using natural language processing to check whether the user entered data is a ham or spam msg.
